@@ -1,2 +1,4 @@
 # Perth-Mod
-Adds a joke mod Perth to Unciv
+
+A silly little mod that adds the City of Perth as a playable faction independent from the rest of Australia.
+
