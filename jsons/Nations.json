@@ -28,7 +28,7 @@
 		  "[+25]% Strength <when attacking> <during a Golden Age>",   
 		  "[+25]% of excess happiness converted to [Production] <during a Golden Age>",
 		  "[+50]% Golden Age length",
-		  "[+100]% unhappiness from the number of cities",
+		  "[+50]% unhappiness from the number of cities",
 		  "[-50]% Unhappiness from [Population] [in all cities]"
 			
 		],
