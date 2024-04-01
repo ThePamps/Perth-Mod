@@ -20,8 +20,8 @@
 		"afterPeace": "Oi, sick as.",
 		"tradeRequest": "Oi check out what I found on marketplace mate.",
 
-		"outerColor": [14,216,0],
-		"innerColor": [189,193,52],
+		"outerColor": [189,193,52],
+		"innerColor": [0,0,0],
 		"uniques": [
                   "[+25]% Production towards any buildings that already exist in the Capital <during a Golden Age>",
 		  "[+25]% Production when constructing [All] buildings [in all cities] <during a Golden Age>",
