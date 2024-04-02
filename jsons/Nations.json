@@ -30,7 +30,7 @@
 		  "[+25]% of excess happiness converted to [Science] <during a Golden Age>",
 		  "[+25]% of excess happiness converted to [Culture] <during a Golden Age>",
 		  "[+50]% Golden Age length",
-		  "[+100]% unhappiness from the number of cities",
+		  "[+200]% unhappiness from the number of cities",
 		  "[-50]% Unhappiness from [Population] [in all cities]"
 			
 		],
