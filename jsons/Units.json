@@ -4,7 +4,7 @@
         "uniqueTo": "Perth",
         "replaces": "Worker",
         "unitType": "Civilian",
-        "movement": 3,
+        "movement": 2,
         "uniques": [
             "Can build [All] improvements on tiles",
             "Can build [Land] improvements on tiles",
