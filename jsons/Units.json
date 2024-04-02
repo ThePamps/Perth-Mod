@@ -9,7 +9,10 @@
             "Can build [All] improvements on tiles",
             "Can build [Land] improvements on tiles",
             "Automation is a primary action",
-            "Ignores terrain cost"
+            "Ignores terrain cost",
+            "Can move immediately once bought",
+            "Double movement in [Friendly Land]"
+
         ],
         "cost": 96
     },
