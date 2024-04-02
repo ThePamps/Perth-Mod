@@ -1,0 +1,11 @@
+[
+     {
+        "name": "Patriot", // Perth Perk
+        "uniques": [
+            "[+15]% to Flank Attack bonuses <during a Golden Age>",
+            "[+25]% Strength <when attacking> <during a Golden Age>",
+            "Can move immediately once bought <during a Golden Age>",
+            "Ignores terrain cost <during a Golden Age>"
+        ]
+    },
+]
