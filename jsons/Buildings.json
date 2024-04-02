@@ -6,7 +6,8 @@
 		"maintenance": 3,
 		"isNationalWonder": true,
         "uniques": [
-		"[+2 Gold, +2 Production, +2 Science] per every [4] [Happiness] <during a Golden Age>",
+		"[-50]% Food consumption by specialists [in this city] <during a Golden Age>",
+		"[+1 Gold, +1 Production, +1 Science, +1 Culture] from every specialist [in this city] <during a Golden Age>",
 		"[+25]% Golden Age length"
 	
 	],
