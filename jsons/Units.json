@@ -2,9 +2,10 @@
 {
         "name": "Tradie",
         "uniqueTo": "Perth",
-        "replaces": "Worker",
-        "unitType": "Civilian",
+        "replaces": "Scout",
+       "unitType": "Scout",
         "movement": 2,
+        "strength": 7,
         "uniques": [
             "Can build [All] improvements on tiles",
             "Can build [Land] improvements on tiles",
