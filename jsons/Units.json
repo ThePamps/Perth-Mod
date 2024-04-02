@@ -1,0 +1,16 @@
+ [
+{
+        "name": "Tradie",
+        "uniqueTo": "Perth",
+        "replaces": "Worker",
+        "unitType": "Civilian",
+        "movement": 3,
+        "uniques": [
+            "Can build [All] improvements on tiles",
+            "Can build [Land] improvements on tiles",
+            "Automation is a primary action",
+            "Ignores terrain cost"
+        ],
+        "cost": 64
+    },
+]
