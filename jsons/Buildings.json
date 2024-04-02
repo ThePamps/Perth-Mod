@@ -3,11 +3,9 @@
 		"name": "Green Spikey",
 		"uniqueTo": "Perth",
 		"cost": 650,
-        "production": 4,
-		"culture": 4,
 		"maintenance": 3,
 		"isNationalWonder": true,
-        "uniques": ["[+2 Gold, +2 Production, +2 Science] per every [10] [Culture]"],
+        "uniques": ["[+2 Gold, +2 Production, +2 Science] per every [4] [Happiness] <during a Golden Age>"],
 		"requiredTech": "Engineering"
 	},
 
