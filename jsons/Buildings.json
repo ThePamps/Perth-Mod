@@ -5,7 +5,11 @@
 		"cost": 650,
 		"maintenance": 3,
 		"isNationalWonder": true,
-        "uniques": ["[+2 Gold, +2 Production, +2 Science] per every [4] [Happiness] <during a Golden Age>"],
+        "uniques": [
+		"[+2 Gold, +2 Production, +2 Science] per every [4] [Happiness] <during a Golden Age>",
+		"[+25]% Golden Age length"
+	
+	],
 		"requiredTech": "Engineering"
 	},
 
