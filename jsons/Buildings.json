@@ -26,5 +26,18 @@
 	],
 		"requiredTech": "Civil Service"
 	},
+
+	{
+		"name": "Perth Underground",
+		"uniqueTo": "Perth",
+		"cost": 300,
+		"isNationalWonder": true,
+        "uniques": [
+		  "[+25]% Golden Age length",
+		  "[+25]% Production towards any buildings that already exist in the Capital <during a Golden Age>",
+		  "[+25]% Strength for cities <during a Golden Age>"
+	],
+		"requiredTech": "Railroads"
+	},
 	
 ]
