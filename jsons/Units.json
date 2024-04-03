@@ -5,7 +5,7 @@
         "replaces": "Scout",
        "unitType": "Scout",
         "movement": 2,
-        "strength": 9,
+        "strength": 8,
         "uniques": [
             "Can build [All] improvements on tiles",
             "[+25]% construction time for [All] improvements <during a Golden Age>",
