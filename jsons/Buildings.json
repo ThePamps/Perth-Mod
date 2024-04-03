@@ -3,7 +3,7 @@
 		"name": "Green Spikey",
 		"uniqueTo": "Perth",
 		"cost": 650,
-		"maintenance": 3,
+		"maintenance": 12,
 		"isNationalWonder": true,
         "uniques": [
 		"[-50]% Food consumption by specialists [in this city] <during a Golden Age>",
@@ -18,7 +18,7 @@
 		"name": "Centrelink",
 		"uniqueTo": "Perth",
 		"cost": 300,
-		"maintenance": 2,
+		"maintenance": 3,
         "uniques": [
 		 "[+25]% growth [in this city] <during a Golden Age>",
 		 "[+25]% [Production] [in this city] <during a Golden Age>",
@@ -30,7 +30,7 @@
 	{
 		"name": "Perth Underground",
 		"uniqueTo": "Perth",
-		"cost": 300,
+		"cost": 550,
 		"isNationalWonder": true,
         "uniques": [
 		  "[+25]% Golden Age length",
