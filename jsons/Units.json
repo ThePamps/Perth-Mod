@@ -5,9 +5,10 @@
         "replaces": "Scout",
        "unitType": "Scout",
         "movement": 2,
-        "strength": 7,
+        "strength": 9,
         "uniques": [
             "Can build [All] improvements on tiles",
+            "[+25]% construction time for [All] improvements <during a Golden Age>",
             "Automation is a primary action",
             "Ignores terrain cost",
             "Can move immediately once bought",
