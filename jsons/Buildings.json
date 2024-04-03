@@ -14,6 +14,17 @@
 	],
 		"requiredTech": "Plastics"
 	},
-
+{
+		"name": "Centrelink",
+		"uniqueTo": "Perth",
+		"cost": 300,
+		"maintenance": 2,
+        "uniques": [
+		 "[+25]% growth [in this city] <during a Golden Age>",
+		 "[+25]% [Production] [in this city] <during a Golden Age>",
+		 "[-50]% Unhappiness from [Unemployed] [in this city]"
+	],
+		"requiredTech": "Civil Service"
+	},
 	
 ]
